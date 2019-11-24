@@ -2,7 +2,7 @@ h5py
 numpy
 scikit-learn
 sklearn
-tensorflow
+tensorflow==2.0.0b0
 keras
 opencv-python
 pyttsx3
